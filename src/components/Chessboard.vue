@@ -112,4 +112,5 @@ const movePiece = (piece) => {
   possibleMoves.value = []
   possibleCaptures.value = []
 }
+
 </script>
